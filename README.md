@@ -10,3 +10,5 @@ all by API
 
 I can run my code also on replit
 https://replit.com/@Filip057/Pixela#main.py
+
+I set it up that it tracks my spent time of coding
